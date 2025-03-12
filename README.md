@@ -16,7 +16,7 @@ This project is a simple Tic-Tac-Toe game built using React and Vite. It allows 
 ---
 
 ## 📖 Table of Contents
-
+git
 1. [Technologies Used](#technologies-used)
 2. [Sections Overview](#sections-overview)
 3. [How to Use](#how-to-use)
@@ -28,7 +28,7 @@ This project is a simple Tic-Tac-Toe game built using React and Vite. It allows 
 
 -   **React**: For building the user interface.
 -   **Vite**: For fast development and build tooling.
--   **CSS**: Styling and interactive design.
+-   **Tailwind-CSS**: Styling and interactive design.
 
 ---
 
