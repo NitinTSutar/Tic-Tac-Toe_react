@@ -9,7 +9,7 @@ export const Board = () => {
             [0, 3, 6],
             [1, 4, 7],
             [2, 5, 8],
-            [0, 2, 8],
+            [0, 4, 8],
             [2, 4, 6],
         ];
         const winner = lines
